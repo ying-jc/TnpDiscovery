@@ -1,0 +1,3 @@
+#Modify the path of the following folders, do not make any other changes.
+iFeature folder = /path to/iFeature
+classifiers folder = /path to/classifiers
