@@ -50,7 +50,7 @@ Options:
 
 ### Notes  
 #### Sequence of input
-The input to TnpDiscovery can be any number of protein sequences in FASTA format. The sequence must not contain the blurred disabilities (such as "X", "Z", "B", "J", "O", "U", and "*"), and the length must be greater than 30bp.
+The input to TnpDiscovery can be any number of protein sequences in FASTA format. The sequence must not contain the blurred disabilities (such as "X", "Z", "B", "J", "O", "U", and "*"), and the length must be greater than 30aa.
 
 #### Result of output
 TnpDiscovery outputs the results to the terminal by default. The user can specify the name of the output file to save the results to a CSV file. In the results, the first column represents the sequence name, the second column represents the estimated probability of a transposase for the corresponding sequence, and the third column represents the classification according to the provided cutoff value.
