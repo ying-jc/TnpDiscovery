@@ -76,4 +76,4 @@ $ python ../TnpDiscovery.py --conf ../config.txt --seq example.fasta
 Note that if the user is not running the program under the TnpDiscovery folder, the path to TnpDiscovery.py and config.txt needs to be provided.
 
 ## Citation  
-Prediction of prokaryotic transposases from protein features with machine learning approaches. (Under Review)
+Wang Q, Ye J, Xu T, Zhou N, Lu Z, Ying J. Prediction of prokaryotic transposases from protein features with machine learning approaches. Microbial genomics 2021, 7(7).
